@@ -17,8 +17,8 @@ MOUSEKEY_ENABLE = no
 EXTRAKEY_ENABLE = yes
 CONSOLE_ENABLE = no
 COMMAND_ENABLE = yes
-BACKLIGHT_ENABLE = yes
-RGBLIGHT_ENABLE = yes
+BACKLIGHT_ENABLE = no
+RGBLIGHT_ENABLE = no
 WS2812_DRIVER = i2c
 NKRO_ENABLE = no
 # Nkey Rollover - if this doesn't work, see here: https://github.com/tmk/tmk_keyboard/wiki/FAQ#nkro-doesnt-work
